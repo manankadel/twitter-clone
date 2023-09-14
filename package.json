@@ -2,7 +2,7 @@
   "name": "note-app",
   "version": "1.0.0",
   "description": "Simple Note app",
-  "main": "index.js",
+  "main": "react.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
